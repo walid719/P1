@@ -75,9 +75,6 @@ void PrintResult( int a,int b, enOperation operation)
 
 int main()
 {
-	cout << "\n\t\tCalculator App V1.0\n";
-	cout << "\t\t-------------------\n\n";
-
 
 	int* Number1, * Number2;
 	enOperation *Operation;
