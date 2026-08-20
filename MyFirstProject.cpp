@@ -75,6 +75,7 @@ void PrintResult( int a,int b, enOperation operation)
 
 int main()
 {
+
 	int* Number1, * Number2;
 	enOperation *Operation;
 	Number1 = new int;
